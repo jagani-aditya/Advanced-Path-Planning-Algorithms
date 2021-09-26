@@ -2,15 +2,15 @@
 
 ## Project Description
 
-### Original Map
+### 1. Original Map
 
 ![Original Map](/images/original.jpg)
 
-### ANA* Map
+### 2. ANA* Map
 
 ![ANA* Map](/images/ana.jpg)
 
-### A* Map
+### 3. A* Map
 
 ![A* Map](/images/a.jpg)
 
