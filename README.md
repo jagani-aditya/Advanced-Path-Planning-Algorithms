@@ -2,17 +2,16 @@
 
 ## Project Description
 
-### 1. Original Map
-
-![Original Map](/images/original.jpg)
-
-### 2. ANA* Map
+### 1. ANA* Star
 
 ![ANA* Map](/images/ana.jpg)
 
-### 3. A* Map
+### 2. A* Map
 
 ![A* Map](/images/a.jpg)
+
+### 3. RRT
+![RRT]()
 
 ## Platform
 
