@@ -32,6 +32,7 @@
 
 ## Implementation
 Open terminal and navigate in the appropriate directory. 
+
 To run ANA*: ```python ana_star_search.py ```
 
 To run A*: ```python a_star_search.py ```
