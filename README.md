@@ -22,6 +22,10 @@
 
 ![Bidirectional RRT](/RRT_Algorithms/brrt/Final_RRT_Star.PNG)
 
+### 6. BFS
+
+![BFS](/images/bfs.jpg)
+
 
 ## Platform
 * Python 3.0
