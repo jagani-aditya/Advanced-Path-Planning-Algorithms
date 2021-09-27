@@ -18,6 +18,10 @@
 
 ![RRT*](/RRT_Algorithms/rrts_stats/image1.jpg)
 
+### 5. RRT*
+
+![Bidirectional RRT](/RRT_Algorithms/brrt/Final_RRT_Star.PNG)
+
 
 ## Platform
 
