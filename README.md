@@ -18,16 +18,33 @@
 
 ![RRT*](/RRT_Algorithms/rrts_stats/image1.jpg)
 
-### 5. Bidirectional RRT
+### 5. Bidirectional RRT*
 
 ![Bidirectional RRT](/RRT_Algorithms/brrt/Final_RRT_Star.PNG)
 
-### 6. BFS
-
-![BFS](/images/bfs.jpg)
 
 ## Platform
+* Python 3.0
+* Ubuntu 18.04 / Windows 10
+
+## Libraries
+* pygame
 
 ## Implementation
+Open terminal and navigate in the appropriate directory. 
+To run ANA*:
+'''
+python ana_star_search.py
+'''
+
+To run A*:
+
+To run RRT:
+
+To run RRT*:
+
+To run Bidirectional RRT:
+
+
 
 
