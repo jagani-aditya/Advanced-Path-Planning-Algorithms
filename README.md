@@ -33,6 +33,13 @@
 ## Implementation
 Open terminal and navigate in the appropriate directory. 
 To run ANA*:
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
+
+
 '''
 python ana_star_search.py
 '''
