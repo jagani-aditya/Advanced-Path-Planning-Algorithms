@@ -33,10 +33,15 @@
 ## Implementation
 Open terminal and navigate in the appropriate directory. 
 To run ANA*: ```python ana_star_search.py ```
+
 To run A*: ```python a_star_search.py ```
+
 To run RRT:```python RRT.py ```
+
 To run RRT*: ```python RRT_Star.py ```
+
 To run Bidirectional RRT: ```python Bidirectional_RRT_Star.py ```
+
 
 
 
