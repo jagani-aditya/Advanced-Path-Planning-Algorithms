@@ -2,6 +2,8 @@
 
 ## Project Description
 
+Implemented various motion planning algorithms on a point-robot platform on discrete and continuous C-space.
+
 ### 1. ANA*
 
 ![ANA* Map](/images/ana.jpg)
